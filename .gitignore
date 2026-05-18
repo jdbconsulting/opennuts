@@ -1,0 +1,20 @@
+# Editor / OS noise
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Generic build / log artifacts (any non-submodule path at the root)
+build/
+build-*/
+.cache/
+compile_commands.json
+*.log
+
+# Local environment overrides for tooling that runs at the
+# superproject root (deploy scripts, etc.). Subprojects keep
+# their own .env rules in their own .gitignore.
+.env
+.env.*
+!.env.example

@@ -1,0 +1,12 @@
+[submodule "opennuts-gmk"]
+	path = opennuts-gmk
+	url = git@github.com:jdbconsulting/opennuts-gmk.git
+[submodule "opennuts-app"]
+	path = opennuts-app
+	url = git@github.com:jdbconsulting/opennuts-app.git
+[submodule "opennuts-schemlang"]
+	path = opennuts-schemlang
+	url = git@github.com:jdbconsulting/opennuts-schemlang.git
+[submodule "opennuts-server"]
+	path = opennuts-server
+	url = git@github.com:jdbconsulting/opennuts-server.git
