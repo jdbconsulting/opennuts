@@ -10,3 +10,6 @@
 [submodule "opennuts-server"]
 	path = opennuts-server
 	url = git@github.com:jdbconsulting/opennuts-server.git
+[submodule "opennuts-web"]
+	path = opennuts-web
+	url = git@github.com:jdbconsulting/opennuts-web.git

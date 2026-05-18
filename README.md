@@ -13,6 +13,7 @@ the umbrella superproject and pins one git submodule per piece.
 | [`opennuts-app/`](opennuts-app/README.md)             | The OpenNuts IDE: browser-only Eclipse Theia + Monaco + WebGL viewer + Auth0 + hybrid local/cloud files.   |
 | [`opennuts-server/`](opennuts-server/README.md)       | AWS Lambda / S3 backend. Auth0-gated project storage and async job orchestration.                          |
 | [`opennuts-schemlang/`](opennuts-schemlang/README.md) | Upstream SchemLang ECAD language; the OpenNuts MCAD language is an extension of it.                        |
+| [`opennuts-web/`](opennuts-web/README.md)             | Marketing / landing site (Next.js + Tailwind, statically exported, deployed to GitHub Pages).              |
 
 ## Cloning
 
